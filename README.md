@@ -47,11 +47,11 @@ A simple and interactive **Streamlit web application** has been developed to pro
 
 Heart-Disease-Detection-ML_Model/
 
-**Heart_Final.ipynb       # Jupyter Notebook with model training**
-**ui_of_model.py                  # Streamlit app file**
-**requirements.txt        # Dependencies**
-**README.md               # Project documentation**
-**dataset.csv             # Dataset used for training**
+* **Heart_Final.ipynb       # Jupyter Notebook with model training**
+* **ui_of_model.py          # Streamlit app file**
+* **requirements.txt        # Dependencies**
+* **README.md               # Project documentation**
+* **dataset.csv             # Dataset used for training**
 
 
 ---
