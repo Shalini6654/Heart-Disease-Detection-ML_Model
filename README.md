@@ -10,6 +10,8 @@ This project aims to **predict the likelihood of heart disease** in patients usi
 The model is built on the **K-Nearest Neighbors (KNN)** algorithm, as it provided the best performance among tested models, achieving an accuracy score of **84%**.
 
 A simple and interactive **Streamlit web application** has been developed to provide a user-friendly interface for predictions.
+Link:  https://heart-disease-detection-mlmode-e7d8xtrsk8m33aakmtkgpr.streamlit.app/
+
 
 ---
 
